@@ -1,12 +1,12 @@
 <h2>English / Enska:</h2> 
-Hi! My name is Ashley (VipelyRS), there's is not much to see on this profile, mostly translation work<br/>I would like to learn java but im finding programming difficult...
+Hi! My name is Ashley, there's is not much to see on this profile, mostly translation work<br/>I would like to learn java but im finding programming difficult...
 
-Pronouns: She/Her
+Pronouns: She/is
 
 <h2>Icelandic / Íslenska:</h2>
-Hæ! Ég er heita Ashley (VipelyRS), þetta er ekki mjög að sjá á prófílnum, mestmegnis það er þýðingarverk<br/>Ég myndi vilja læra java en ég er að finna forritun örðugleiki...
+Hæ! Ég er heita Ashley, þetta er ekki mjög að sjá á prófílnum, mestmegnis það er þýðingarverk<br/>Ég myndi vilja læra java en ég er að finna forritun örðugleiki...
 
-Fornöfn: Hún/Hona
+Fornöfn: Hún/Það
 <!--
 **VipelyRS/VipelyRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
