@@ -1,7 +1,7 @@
 <h2>English / Enska:</h2> 
 Hi! My name is Ashley, there's is not much to see on this profile, mostly translation work<br/>I would like to learn java but im finding programming difficult...
 
-Pronouns: She/is
+Pronouns: She/It
 
 <h2>Icelandic / Íslenska:</h2>
 Hæ! Ég er heita Ashley, þetta er ekki mjög að sjá á prófílnum, mestmegnis það er þýðingarverk<br/>Ég myndi vilja læra java en ég er að finna forritun örðugleiki...
